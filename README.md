@@ -37,7 +37,6 @@ Exploring computer vision and AI through practical projects.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🔌 IoT & Hardware
@@ -111,15 +110,6 @@ Most of my learning happens through **building projects and solving real problem
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SixtoMV31&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SixtoMV31&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in learning, collaborating and building new projects.
@@ -127,6 +117,9 @@ I'm always interested in learning, collaborating and building new projects.
 <p align="center">
   <a href="https://github.com/SixtoMV31">
     <img src="https://img.shields.io/badge/GitHub-SixtoMV31-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mendez-velazquez-sixto-abaa5a38b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="[https://img.shields.io/badge/GitHub-SixtoMV31-181717?style=for-the-badge&logo=github](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)" />
   </a>
 </p>
 
