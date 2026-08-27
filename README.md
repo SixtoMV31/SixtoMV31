@@ -118,9 +118,19 @@ I'm always interested in learning, collaborating and building new projects.
   <a href="https://github.com/SixtoMV31">
     <img src="https://img.shields.io/badge/GitHub-SixtoMV31-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/mendez-velazquez-sixto-abaa5a38b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="[https://img.shields.io/badge/GitHub-SixtoMV31-181717?style=for-the-badge&logo=github](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)" />
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="TU_TIKTOK">
+    <img src="https://img.shields.io/badge/TikTok-Ingeniero%20en%20proceso-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>I'm always open to connecting, collaborating, and talking about technology and new projects.</i>
 </p>
 
 ---
