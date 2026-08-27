@@ -118,13 +118,13 @@ I'm always interested in learning, collaborating and building new projects.
   <a href="https://github.com/SixtoMV31">
     <img src="https://img.shields.io/badge/GitHub-SixtoMV31-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mendez-velazquez-sixto-abaa5a38b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="TU_TIKTOK">
+  <a href="https://www.tiktok.com/@ingeniero_en_procesoo?_r=1&_t=ZS-99DjatpL7S8">
     <img src="https://img.shields.io/badge/TikTok-Ingeniero%20en%20proceso-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:sixtomendezvelazquez58@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
